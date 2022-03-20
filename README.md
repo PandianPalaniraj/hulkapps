@@ -2,7 +2,7 @@
 Appointment scheduler application
 
 
-# User stack details
+# Tech Stack details
   
   1. PHP 7.4
   2. Laravel 5.5
@@ -38,7 +38,7 @@ Appointment scheduler application
   2. Update appointment status
 
 
-# Application usage - Doctor Login
+# Application usage - Patient Login
 
   1. View appointments
   2. Add new appointment
